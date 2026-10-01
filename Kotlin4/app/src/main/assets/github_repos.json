@@ -1,0 +1,10 @@
+[
+  {"id": 101, "full_name": "square/okhttp", "description": "HTTP-клиент для Android и Java", "stargazers_count": 46000, "language": "Kotlin"},
+  {"id": 102, "full_name": "google/gson", "description": "Библиотека для JSON", "stargazers_count": 23000, "language": "Java"},
+  {"id": 103, "full_name": "InsertKoinIO/koin", "description": "Внедрение зависимостей для Kotlin", "stargazers_count": 9000, "language": "Kotlin"},
+  {"id": 104, "full_name": "coil-kt/coil", "description": "Загрузка изображений в Compose", "stargazers_count": 11000, "language": "Kotlin"},
+  {"id": 105, "full_name": "Kotlin/kotlinx.coroutines", "description": "Корутины и Flow", "stargazers_count": 13100, "language": "Kotlin"},
+  {"id": 106, "full_name": "androidx/androidx", "description": "Библиотеки Jetpack", "stargazers_count": 5400, "language": "Kotlin"},
+  {"id": 107, "full_name": "square/leakcanary", "description": "Поиск утечек памяти", "stargazers_count": 29000, "language": "Kotlin"},
+  {"id": 108, "full_name": "airbnb/lottie-android", "description": "Анимации After Effects", "stargazers_count": 35000, "language": "Java"}
+]

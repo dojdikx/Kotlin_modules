@@ -1,0 +1,12 @@
+[
+  {"id": 1, "userId": 1, "title": "Утренний маршрут до кампуса", "body": "Сегодня вышел раньше и успел на первую пару без бега.", "avatarUrl": "https://i.pravatar.cc/150?img=11"},
+  {"id": 2, "userId": 2, "title": "Конспект по корутинам", "body": "Записал, чем async отличается от launch, пока свежо.", "avatarUrl": "https://i.pravatar.cc/150?img=12"},
+  {"id": 3, "userId": 3, "title": "Новая кружка в буфете", "body": "Взял какао вместо кофе. Неожиданно бодро.", "avatarUrl": "https://i.pravatar.cc/150?img=13"},
+  {"id": 4, "userId": 4, "title": "Лабораторная по сервисам", "body": "Foreground-уведомление наконец не пропадает.", "avatarUrl": "https://i.pravatar.cc/150?img=14"},
+  {"id": 5, "userId": 5, "title": "Вечер на набережной", "body": "После пар прошлись до моста и обратно.", "avatarUrl": "https://i.pravatar.cc/150?img=15"},
+  {"id": 6, "userId": 6, "title": "Список дел на неделю", "body": "Оставил только то, что реально закрыть до пятницы.", "avatarUrl": "https://i.pravatar.cc/150?img=16"},
+  {"id": 7, "userId": 7, "title": "Разбор WorkManager", "body": "Цепочка из трёх шагов читается проще, чем три отдельных вызова.", "avatarUrl": "https://i.pravatar.cc/150?img=17"},
+  {"id": 8, "userId": 8, "title": "Плейлист для дороги", "body": "Собрал короткие треки ровно на путь от метро.", "avatarUrl": "https://i.pravatar.cc/150?img=18"},
+  {"id": 9, "userId": 9, "title": "Заметка про сенсоры", "body": "Компас лучше останавливать, когда экран не виден.", "avatarUrl": "https://i.pravatar.cc/150?img=19"},
+  {"id": 10, "userId": 10, "title": "Планы на выходные", "body": "Хочу дочитать главу и никуда не спешить.", "avatarUrl": "https://i.pravatar.cc/150?img=20"}
+]
